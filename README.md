@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Albi-10git
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning BCA with Analytics
-- 😄 Pronouns: 
+- 👀 I’m interested in ..
+- 🌱 I’m currently learning...
+- 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
 <!---
