@@ -54,6 +54,23 @@ Feel free to explore my repositories, share ideas, or even collaborate on a proj
 
 ---
 
+## 🏆 My GitHub Badges!
+<div align="center">
+
+💪 **Badges Earned So Far!**  
+
+![GitHub Stars](https://img.shields.io/badge/⭐_GitHub_Stars-10-yellow?style=for-the-badge)
+![Open Source Contributor](https://img.shields.io/badge/Open_Source-Contributor-brightgreen?style=for-the-badge)
+![Hacktoberfest](https://img.shields.io/badge/Hacktoberfest-2025-orange?style=for-the-badge)
+![Commit Master](https://img.shields.io/badge/Commit_Master-500+_Commits-blue?style=for-the-badge)
+![Repository Explorer](https://img.shields.io/badge/Repository_Explorer-20+_Repos-purple?style=for-the-badge)
+
+🌟 **Keep Collecting More!** 🌟  
+
+</div>
+
+---
+
 
 ## 🌟 My Aspirations
 - 🌱 Dive deeper into the realms of **Python** and **PHP**.
