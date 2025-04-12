@@ -54,15 +54,11 @@ Feel free to explore my repositories, share ideas, or even collaborate on a proj
 
 ---
 
-![Welcome Banner](https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif)
-
 # 🏆 Albi's Achievements & Badges 🎖️
 
 Welcome to the **Wall of Fame**! Here's a showcase of the badges and achievements I've earned during my GitHub journey:
 
----
 
-<div align="center">
 
 ### **🌟 GitHub Achievements**
 
@@ -89,7 +85,6 @@ Welcome to the **Wall of Fame**! Here's a showcase of the badges and achievement
 ![Hacktoberfest](https://img.shields.io/badge/Hacktoberfest-2025-orange?style=for-the-badge)
 
 🌟 **More to come as I grow my GitHub journey!** 🌟
-
 </div>
 
 ---
