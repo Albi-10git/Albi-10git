@@ -54,21 +54,44 @@ Feel free to explore my repositories, share ideas, or even collaborate on a proj
 
 ---
 
-## 🏆 My GitHub Achievements and Badges!
+![Welcome Banner](https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif)
+
+# 🏆 Albi's Achievements & Badges 🎖️
+
+Welcome to the **Wall of Fame**! Here's a showcase of the badges and achievements I've earned during my GitHub journey:
+
+---
+
 <div align="center">
 
-### **🎖️ Featured Badges**  
-Here are a few badges I've earned as I continue my GitHub journey:
+### **🌟 GitHub Achievements**
+
+![Starstruck](https://github.githubassets.com/images/modules/profile/achievements/starstruck-default.png)  
+**Starstruck**: Earned for receiving stars on my repositories! 🌟
+
+![Pull Shark](https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png)  
+**Pull Shark**: Awarded for successfully merging pull requests. 🦈
+
+![Quickdraw](https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png)  
+**Quickdraw**: Recognized for closing issues swiftly. ⚡
+
+![Galaxy Brain](https://github.githubassets.com/images/modules/profile/achievements/galaxy-brain-default.png)  
+**Galaxy Brain**: For answering discussions with accepted solutions. 🌌
+
+---
+
+### **🎖️ Other Badges**
 
 ![GitHub Stars](https://img.shields.io/badge/⭐_GitHub_Stars-10-yellow?style=for-the-badge)
-![Open Source Contributor](https://img.shields.io/badge/Open_Source-Contributor-brightgreen?style=for-the-badge)
-![Hacktoberfest](https://img.shields.io/badge/Hacktoberfest-2025-orange?style=for-the-badge)
 ![Commit Master](https://img.shields.io/badge/Commit_Master-500+_Commits-blue?style=for-the-badge)
 ![Repository Explorer](https://img.shields.io/badge/Repository_Explorer-20+_Repos-purple?style=for-the-badge)
+![Open Source Contributor](https://img.shields.io/badge/Open_Source-Contributor-brightgreen?style=for-the-badge)
+![Hacktoberfest](https://img.shields.io/badge/Hacktoberfest-2025-orange?style=for-the-badge)
 
-🌟 **More to come as I continue contributing!** 🌟
+🌟 **More to come as I grow my GitHub journey!** 🌟
 
 </div>
+
 ---
 
 
