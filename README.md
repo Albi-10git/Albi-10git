@@ -54,10 +54,11 @@ Feel free to explore my repositories, share ideas, or even collaborate on a proj
 
 ---
 
-## 🏆 My GitHub Badges!
+## 🏆 My GitHub Achievements and Badges!
 <div align="center">
 
-💪 **Badges Earned So Far!**  
+### **🎖️ Featured Badges**  
+Here are a few badges I've earned as I continue my GitHub journey:
 
 ![GitHub Stars](https://img.shields.io/badge/⭐_GitHub_Stars-10-yellow?style=for-the-badge)
 ![Open Source Contributor](https://img.shields.io/badge/Open_Source-Contributor-brightgreen?style=for-the-badge)
@@ -65,10 +66,9 @@ Feel free to explore my repositories, share ideas, or even collaborate on a proj
 ![Commit Master](https://img.shields.io/badge/Commit_Master-500+_Commits-blue?style=for-the-badge)
 ![Repository Explorer](https://img.shields.io/badge/Repository_Explorer-20+_Repos-purple?style=for-the-badge)
 
-🌟 **Keep Collecting More!** 🌟  
+🌟 **More to come as I continue contributing!** 🌟
 
 </div>
-
 ---
 
 
