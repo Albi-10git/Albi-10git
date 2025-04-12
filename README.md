@@ -23,6 +23,21 @@ Hey there! I'm **Albi**, a passionate **BCA Analytics Student** 🚀 with a love
 When the code takes a break, the music begins! 🎤 Singing is my way of spreading joy and relaxation. Life’s too short not to sing your heart out! 🎵
 
 ---
+## 📊 GitHub Stats & Activity
+<div align="center">
+
+✨ **Here's a snapshot of my GitHub journey!** ✨
+
+![Albi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Albi-10git&show_icons=true&theme=radical&hide=stars&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Albi-10git&layout=compact&theme=radical)
+
+🌟 **My Streaks and Contributions** 🌟  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Albi-10git&theme=radical)
+
+</div>
+
+---
+
 
 ## 🌟 My Aspirations
 - 🌱 Dive deeper into the realms of **Python** and **PHP**.
