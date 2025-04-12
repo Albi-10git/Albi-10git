@@ -1,5 +1,4 @@
-![Welcome Banner](https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif)
-
+![Welcome Banner](https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif)
 # 🌟✨ Welcome to My Universe! 🌌✨
 
 ## 👩‍🎓 About Me
