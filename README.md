@@ -20,8 +20,13 @@ Hey there! I'm **Albi**, a passionate **BCA Analytics Student** 🚀 with a love
 ---
 
 ## 🎶 My Melodic Side
-When the code takes a break, the music begins! 🎤 Singing is my way of spreading joy and relaxation. Life’s too short not to sing your heart out! 🎵
+🎵✨ **Music is Life!** ✨🎤  
+🎶 *"Where words fail, music speaks."* 🎧  
+</div>
 
+![Music Banner](https://media.giphy.com/media/l0MYB8Ory7Hqefo9a/giphy.gif)
+
+</div>
 ---
 ## 📊 GitHub Stats & Activity
 <div align="center">
