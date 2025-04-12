@@ -24,7 +24,7 @@ Hey there! I'm **Albi**, a passionate **BCA Analytics Student** 🚀 with a love
 🎶 *"Where words fail, music speaks."* 🎧  
 </div>
 
-![Music Banner](https://media.giphy.com/media/5T06ftUe2U9u7zOX5E/giphy.gif)
+
 </div>
 ---
 ## 📊 GitHub Stats & Activity
