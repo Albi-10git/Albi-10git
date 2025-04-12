@@ -1,4 +1,4 @@
-![Welcome Banner](https://i.imgur.com/Nm6W4Ov.png)
+![Welcome Banner](https://i.imgur.com/ZSfZ5pD.png)
 
 # 🌟✨ Welcome to My Universe! 🌌✨
 
