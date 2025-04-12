@@ -1,4 +1,4 @@
-![Welcome Banner](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
+![Welcome Banner](https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif)
 
 # 🌟✨ Welcome to My Universe! 🌌✨
 
@@ -33,7 +33,7 @@ When the code takes a break, the music begins! 🎤 Singing is my way of spreadi
 ---
 
 ## ✨ Fun Fact
-Ever seen an anime character frantically debugging code while sipping on 10 cups of coffee? ☕👾 That’s me when deadlines are near! Inspired by the spirit of **"Code Geass"**, where every line of code is a strategic move! 🖥️🎉
+I believe coding is like composing a great song; it requires rhythm, logic, and creativity. Whether it’s debugging code or hitting the perfect note, it’s all about balance and harmony! 🎼💻
 
 ---
 
