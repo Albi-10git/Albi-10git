@@ -25,7 +25,6 @@ Hey there! I'm **Albi**, a passionate **BCA Analytics Student** 🚀 with a love
 </div>
 
 
-</div>
 ---
 ## 📊 GitHub Stats & Activity
 <div align="center">
@@ -87,6 +86,7 @@ Welcome to the **Wall of Fame**! Here's a showcase of the badges and achievement
 ![Repository Explorer](https://img.shields.io/badge/Repository_Explorer-20+_Repos-purple?style=for-the-badge)
 ![Open Source Contributor](https://img.shields.io/badge/Open_Source-Contributor-brightgreen?style=for-the-badge)
 ![Hacktoberfest](https://img.shields.io/badge/Hacktoberfest-2025-orange?style=for-the-badge)
+
 
 🌟 **More to come as I grow my GitHub journey!** 🌟
 </div>
