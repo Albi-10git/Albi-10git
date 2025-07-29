@@ -1,4 +1,4 @@
-![Welcome Banner](https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif)
+![Welcome Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Welcome%20to%20My%20GitHub!&fontSize=40&fontAlignY=35&desc=Explore%20my%20projects%20and%20collaborations&descAlignY=60)
 # 🌟✨ Welcome to My Universe! 🌌✨
 
 ## 👩‍🎓 About Me
