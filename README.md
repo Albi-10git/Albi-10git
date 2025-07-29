@@ -1,4 +1,4 @@
-![Welcome Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Welcome%20to%20My%20GitHub!&fontSize=40&fontAlignY=35&desc=Explore%20my%20projects%20and%20collaborations&descAlignY=60)
+![Welcome Banner](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub+Profile!;Explore+my+projects+and+ideas.;Let's+build+something+great+together!)
 # 🌟✨ Welcome to My Universe! 🌌✨
 
 ## 👩‍🎓 About Me
